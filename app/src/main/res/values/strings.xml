@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firebase Demo</string>
+    <string name="enter_authors_name">Enter Author\'s Name</string>
+    <string name="add">Add</string>
+    <string name="add_new_author">Add New Author</string>
+    <string name="error_field_required">This Field Required</string>
+    <string name="author_added_successfully">Author Successfully Added</string>
+    <string name="author_updated_successfully">Author Successfully Updated</string>
+    <string name="error_occurred_while_adding">Error: %1$s</string>
+    <string name="edit_author">Edit Author</string>
+    <string name="update">Update</string>
+    <string name="delete_confirmation">Are you sure you want to delete?</string>
+    <string name="yes">Yes</string>
+
+
+</resources>
